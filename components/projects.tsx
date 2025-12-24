@@ -49,7 +49,7 @@ const projects = [
     name: "Lernova",
     description:
       "LMS SaaS app featuring user authentication, subscriptions.",
-    tech: ["MERN", "TypeScript", "VAPI.api", "Chart.js"],
+    tech: ["MERN", "TypeScript", "VAPI.api", "Chart.js", "Stripe"],
     github: "https://github.com/prajwallshetty/Lernova",
     live: "https://github.com/prajwallshetty/Lernova",
   },
