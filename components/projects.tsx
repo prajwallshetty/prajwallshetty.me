@@ -43,7 +43,7 @@ const projects = [
       "A role-based seminar hall booking platform built with Next.js (App Router), shadcn/ui, Prisma, and NextAuth.js",
     tech: ["React", "Node.js", "MongoDB", "Next.js", "Express"],
     github: "https://github.com/prajwallshetty/Book-Seminar-Hall",
-    live: "book-seminar-hall.vercel.app",
+    live: "https://book-seminar-hall.vercel.app",
   },
   {
     name: "Lernova",
