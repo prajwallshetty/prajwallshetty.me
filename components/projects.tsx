@@ -38,7 +38,7 @@ const projects = [
     live: "https://clientx.tech",
   },
   {
-    name: "seminar hall booking platform",
+    name: "Seminar Hall Booking Platform",
     description:
       "A role-based seminar hall booking platform built with Next.js (App Router), shadcn/ui, Prisma, and NextAuth.js",
     tech: ["React", "Node.js", "MongoDB", "Next.js", "Express"],
