@@ -48,7 +48,7 @@ const projects = [
   {
     name: "Lernova",
     description:
-      "LMS SaaS app featuring user authentication, subscriptions.",
+      "LMS SaaS app featuring user authentication, subscriptions also integrates Vapi AI voice agent for seamless, interactive learning sessions.",
     tech: ["MERN", "TypeScript", "VAPI.api", "Chart.js", "Stripe"],
     github: "https://github.com/prajwallshetty/Lernova",
     live: "https://github.com/prajwallshetty/Lernova",
