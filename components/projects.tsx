@@ -53,6 +53,14 @@ const projects = [
     github: "https://github.com/prajwallshetty/Lernova",
     live: "https://github.com/prajwallshetty/Lernova",
   },
+  {
+    name: "Subscription-API",
+    description:
+      "An Api that manages users, subscriptions with error control (production ready)",
+    tech: ["Express", "MongoDB", "Upstash", "Nodemailer"],
+    github: "https://github.com/prajwallshetty/subscriptio-API",
+    live: "http://subapi.prajwallshetty.me",
+  },
 ]
 
 export function Projects() {
