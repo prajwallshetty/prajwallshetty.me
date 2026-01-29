@@ -58,7 +58,7 @@ const projects = [
     description:
       "An Api that manages users, subscriptions with error control (production ready)",
     tech: ["Express", "MongoDB", "Upstash", "Nodemailer"],
-    github: "https://github.com/prajwallshetty/subscriptio-API",
+    github: "https://github.com/prajwallshetty/subscription-API",
     live: "http://subapi.prajwallshetty.me",
   },
 ]
