@@ -34,7 +34,7 @@ const projects = [
     description:
       "AAKAR is the annual technical fest of A J Institute of Engineering & Technology, Mangaluru. It is a platform for students to showcase their technical skills and creativity through various events and competitions.",
     tech: ["Next JS", "Supabase", "postgresql", "Express", "Tailwind CSS"],
-    github: "https://github.com/prajwallshetty/Aakar-26-landing",
+    github: "hhttps://github.com/Ajiet-DevNation/Aakar-26",
     live: "https://aakar.live",
   },
   {
