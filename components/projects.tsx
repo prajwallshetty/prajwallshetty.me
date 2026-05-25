@@ -29,6 +29,14 @@ const containerVariants = {
 }
 
 const projects = [
+    {
+    name: "Aakar 2026-Event Managment Websitw",
+    description:
+      "AAKAR is the annual technical fest of A J Institute of Engineering & Technology, Mangaluru. It is a platform for students to showcase their technical skills and creativity through various events and competitions.",
+    tech: ["Next JS", "Supabase", "postgresql", "Express", "Tailwind CSS"],
+    github: "https://github.com/prajwallshetty/Aakar-26-landing",
+    live: "https://aakar.live",
+  },
   {
     name: "Clientx",
     description:
